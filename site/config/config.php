@@ -44,7 +44,7 @@ c::set('url', '/');
  
 */
 
-c::set('url', 'vsxed.github.com');
+c::set('url', 'http://vsxed.github.com/');
 
 
 /* 
