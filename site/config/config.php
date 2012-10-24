@@ -44,7 +44,7 @@ c::set('url', '/');
  
 */
 
-c::set('url', 'http://www.eduardmayer.de');
+c::set('url', false);
 
 
 /* 
