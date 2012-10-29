@@ -44,7 +44,7 @@ c::set('url', '/');
  
 */
 
-c::set('url', 'http://vsxed.github.com/');
+c::set('url', '/relaunch');
 
 
 /* 
@@ -89,7 +89,7 @@ http://yourdomain.com/index.php/about
 
 */
 
-c::set('rewrite', false);
+c::set('rewrite', true);
 
 
 /* 
